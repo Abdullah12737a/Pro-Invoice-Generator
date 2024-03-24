@@ -1,0 +1,161 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/add_blue40.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/addblue40.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/back_arrow35.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/backarrow35.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/backgroundgradiant.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_about_gradiant.xml" value="0.1615" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_right_bottom_45_blue_gradient.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_status_bar_gradient.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_statusbar_gradint.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_white_radius_10dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/bg_white_radius_13dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/button_gradiant.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/button_gradiant2_curved.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/buttongradiant2curved.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/buttonshape2.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/call_icon.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/card_shape_10dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/circle_shop_logo.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/circle_white_icon_bg.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/color_cursor.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/count_down_grey35.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/count_up35.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/countdowngrey35.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/dialog_round_background_10dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/dialogbackground.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/drawable_round_corner_5dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/drawableroundcorner.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edit_blue_icon.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edit_text_shape2.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/editblueicon.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edittext_drawable_round_corner.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edittextdrawableroundcorner.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edittextshape.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/edittextshape2.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/et_adapter_round_shape_10dp.xml" value="0.1615" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/et_round_shape_10dp.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frame_blue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frame_rv_list_blue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frame_rv_list_pink.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frameblue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framebrown.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framedarkblue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framegreen.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framegreen11.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framegrey.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frameorange.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framepink.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framered.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistblue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistbrown.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistdarkblue.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistgreen.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistgreen11.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistgrey.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistorange.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistpink.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistred.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistviolet.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistviolet11.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/framervlistyellow.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frameviolet.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frameviolet11.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/frameyellow.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_call_24123.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_collection_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_collections_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_save_alt_24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_company_logo.xml" value="0.1615" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_add.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_arrow_down.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_arrow_down_blue.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_back.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_btn_drawer.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_delete.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_edit.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_location.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_nav_icon.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_person.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_iv_phone.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/location24.xml" value="0.177" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/nav_header_bg_gradient.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/navibackground.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/drawable/phone24.xml" value="0.1735" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/font/biryani.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/font/cherry_swash.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/font/coda.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/font/emilys_candy.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout-v26/activity_edit_business_info.xml" value="0.2" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_add_shop_info.xml" value="0.258203335126412" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_change_invoice_background.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_demo_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_edit_business_info.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_edit_invoice.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_edit_shop_info.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_generate_receipt.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_help.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_my_customers.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_my_fav_customers.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_my_items.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_print_success.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_printed_receipts.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/activity_see_printed_invoice.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/carditemlayout.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/cardlayoutmycustomers.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/cardlayoutmyitems.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/cardlayoutprintedinvoices.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/common_toolbar.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogaddmyitem.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogaddnew.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogaddnewcustomer.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogchoosefont.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogdelete.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/dialogeditinvoice.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/item_ad.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/item_ads.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/layout/outputqualitychoose.xml" value="0.264" />
+        <entry key="..\:/Projects/Invoice Generator Repo/invoice-generator/app/src/main/res/menu/nav_menu.xml" value="0.4" />
+        <entry key="..\:/Projects/Invoice Generator/app/src/main/res/layout/activity_edit_shop_info.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/activity_add_shop_info.xml" value="0.24615384615384617" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/activity_edit_business_info.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/activity_generate_receipt.xml" value="0.24615384615384617" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/activity_my_items.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/activity_see_printed_invoice.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/cardlayoutmycustomers.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/cardlayoutmyitems.xml" value="0.24615384615384617" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/cardlayoutprintedinvoices.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/common_toolbar.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/dialogaddmyitem.xml" value="0.24615384615384617" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/dialogaddnew.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/dialogaddnewcustomer.xml" value="0.24615384615384617" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/dialogchoosefont.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/dialogeditinvoice.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/native_ad_layout.xml" value="0.25" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/app/src/main/res/layout/outputqualitychoose.xml" value="0.1" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/nativetemplates2/src/main/res/layout/gnt_medium_template_view.xml" value="0.10989583333333333" />
+        <entry key="..\:/Projects/Invoice generator repo1/invoice-generator/nativetemplates2/src/main/res/layout/gnt_small_template_view.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
